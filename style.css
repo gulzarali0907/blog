@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+}
+#myCarousel {
+    background-color: red;
+}
+.carousel-inner p{
+margin-bottom: 15px;
+margin-top: 15px;
+color: white;
+font-size:20px;
+}
+
+#apps {
+    background-color: aliceblue;
+}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+    
+}
+h1 {
+    text-align: center;
+}
+#game {
+    background-color: aliceblue;
+}
+#bot {
+    background-color: aliceblue;
+}
+#myCarousel img{
+height: 300px;
+margin-top: 35px;
+}
